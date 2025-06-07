@@ -6,7 +6,7 @@ I'm passionate about leveraging data science and machine learning to solve compl
 
 ### 🎯 About Me
 
-- 🔭 Currently working as a Data Scientist/AI Engineer at **Walmart Global Tech**
+- 🔭 Currently working as a Senior Data Scientist at **Walmart Global Tech**
 - 🌱 Specializing in machine learning, data mining, and knowledge graph applications
 - 💡 Experienced in building end-to-end ML solutions for large-scale retail operations
 - 🎓 Strong academic background in Data Science with hands-on project experience
